@@ -24,7 +24,7 @@ body {
     border: 5px solid #f3f3f3; /* Light grey */
     border-radius: 50%;
     border-top-color: #3498db; /* Blue */
-    animation: spin 1s infinite linear;
+    animation: spin 0s infinite linear;
 }
 
 @keyframes spin {
